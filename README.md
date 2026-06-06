@@ -6,6 +6,7 @@ A command-line expense tracker built in Python.
 
 - Add expenses with an amount and category
 - List all recorded expenses
+- Summary of all expenses by category
 - View the total spent
 - Data persists between sessions (saved to JSON)
 
